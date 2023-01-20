@@ -1,6 +1,7 @@
 # EasyCopy
-需要环境
-· Python3.7及以上
+- 需要环境
+1. Python3.7及以上
+2. Windows系统已安装dd，并设置为环境变量；Linux系包含dd无需安装
 ```
 pip install poetry
 poetry install
